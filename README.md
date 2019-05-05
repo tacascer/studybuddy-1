@@ -1,2 +1,2 @@
-# studybuddy
+# StudyBuddy
 Hack Challenge App StudyBuddy
