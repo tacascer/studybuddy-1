@@ -4,6 +4,8 @@ Find your study buddies to study for your courses!
 
 # Screenshots :)
 
+homescreen:
+
 <img width="340" alt="home" src="https://user-images.githubusercontent.com/50306692/57203165-ab78ec00-6f7b-11e9-85d0-cc11eb2c0fa2.png">
 
 <img width="340" alt="createnewacc" src="https://user-images.githubusercontent.com/50306692/57203459-3eb32100-6f7e-11e9-8567-c000c91b876d.png">
