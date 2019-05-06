@@ -16,6 +16,8 @@ login screen:
 
 <img width="340" alt="loginacc" src="https://user-images.githubusercontent.com/50306692/57203466-4d013d00-6f7e-11e9-9f8c-14ba8d347544.png">
 
+the user has the choice to either create a group or join an exisiting group:
+
 <img width="340" alt="createjoin" src="https://user-images.githubusercontent.com/50306692/57203185-e844e300-6f7b-11e9-91e6-a390b5391f36.png">
 
 * My Groups button on the navigation bar takes the user to My Groups page when pressed
