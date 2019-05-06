@@ -16,13 +16,13 @@ Find your study buddies to study for your courses!
 
 <img width="340" alt="loginacc" src="https://user-images.githubusercontent.com/50306692/57203466-4d013d00-6f7e-11e9-9f8c-14ba8d347544.png">
 
-### the user has the choice to either create a group or join an exisiting group:
+### option to either create a group or join an exisiting group:
 
 <img width="340" alt="createjoin" src="https://user-images.githubusercontent.com/50306692/57203185-e844e300-6f7b-11e9-91e6-a390b5391f36.png">
 
 * My Groups button on the navigation bar takes the user to My Study Groups page when pressed
 
-creating a group:
+### creating a group:
 
 <img width="345" alt="creategroup" src="https://user-images.githubusercontent.com/50306692/57203476-64d8c100-6f7e-11e9-93c5-cfd211eca5e2.png">
 
