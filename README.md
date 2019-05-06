@@ -35,7 +35,11 @@ List the requirements and show how they are met
 
 ### Backend
 
-List the requirements and show how they are met
+* We made a custom API without incorporating any outside API implementations. Here's the link to the Spec:
+https://paper.dropbox.com/doc/StudyBuddy-API-Spec--Acm9xqEGue3DFQSB5FX_g7WXAQ-vZNERrz3DgWPbcOnDPYze
+
+We used Flask_SQLAlchemy and modeled our databases of Users, Groups, and Messages with their respective relationships to each other.
+* We deployed our server on Google Cloud. http://35.196.189.184
 
 ## Additional info
 Future/ possible implentations:
