@@ -30,9 +30,11 @@ exiting groups that users can join:
 
 <img width="340" alt="groups" src="https://user-images.githubusercontent.com/50306692/57203195-07dc0b80-6f7c-11e9-881b-3bf16f3012b6.png">
 
-displays study groups that the user is a part of (also goes to this page after the user creates a new group):
+study groups that the user is a part of (also goes to this page after the user creates a new group):
 
 <img width="340" alt="mygroups" src="https://user-images.githubusercontent.com/50306692/57203228-47a2f300-6f7c-11e9-831a-1db75461065e.png">
+
+piazza style "chat"/ "thread" where members of the groups can talk to eachother (takes user to this page when they press on a group):
 
 <img width="340" alt="thread" src="https://user-images.githubusercontent.com/50306692/57203231-4a9de380-6f7c-11e9-8723-b0c5e1e1d6fa.png">
 
