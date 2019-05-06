@@ -41,8 +41,10 @@ List the requirements and show how they are met
 ## Additional info
 
 Future/ possible implentations:
-> connect account to facebook or google 
-> connect google calendar to display the "study times" for the study groups they are in
-> create a functioning "chat"/ "thread" for the groups
-> page to display all the current members in the group
+* connect account to facebook or google 
+* connect google calendar to display the "study times" for the study groups they are in
+* create a functioning "chat"/ "thread" for the groups
+* page to display all the current members in the group
+* implement a check system in create groups to make sure the user is not leaving any textfields blank 
+* display error message when the user leaves any textfields empty in create new account & create groups
 
