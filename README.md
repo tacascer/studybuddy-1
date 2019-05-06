@@ -31,7 +31,10 @@ Now, you will always have friends to help ace your courses and get that 4.0 you 
 
 ### iOS
 
-List the requirements and show how they are met
+* App contains AutoLayout using NSLayoutConstraints
+* UITableView was used to display groups in Join Groups and My Study Groups page
+* NavigationController was used to navigate between different screens
+* Integrated custom API written by backend members
 
 ### Backend
 
