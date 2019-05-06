@@ -20,7 +20,7 @@ the user has the choice to either create a group or join an exisiting group:
 
 <img width="340" alt="createjoin" src="https://user-images.githubusercontent.com/50306692/57203185-e844e300-6f7b-11e9-91e6-a390b5391f36.png">
 
-* My Groups button on the navigation bar takes the user to My Groups page when pressed
+* My Groups button on the navigation bar takes the user to My Study Groups page when pressed
 
 creating a group:
 
@@ -29,6 +29,8 @@ creating a group:
 exiting groups that users can join:
 
 <img width="340" alt="groups" src="https://user-images.githubusercontent.com/50306692/57203195-07dc0b80-6f7c-11e9-881b-3bf16f3012b6.png">
+
+displays study groups that the user is a part of (also goes to this page after the user creates a new group):
 
 <img width="340" alt="mygroups" src="https://user-images.githubusercontent.com/50306692/57203228-47a2f300-6f7c-11e9-831a-1db75461065e.png">
 
