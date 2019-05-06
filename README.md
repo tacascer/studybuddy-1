@@ -12,11 +12,11 @@ Find your study buddies to study for your courses!
 
 <img width="340" alt="createnewacc" src="https://user-images.githubusercontent.com/50306692/57203459-3eb32100-6f7e-11e9-8567-c000c91b876d.png">
 
-login screen:
+### login screen:
 
 <img width="340" alt="loginacc" src="https://user-images.githubusercontent.com/50306692/57203466-4d013d00-6f7e-11e9-9f8c-14ba8d347544.png">
 
-the user has the choice to either create a group or join an exisiting group:
+### the user has the choice to either create a group or join an exisiting group:
 
 <img width="340" alt="createjoin" src="https://user-images.githubusercontent.com/50306692/57203185-e844e300-6f7b-11e9-91e6-a390b5391f36.png">
 
@@ -26,11 +26,13 @@ creating a group:
 
 <img width="345" alt="creategroup" src="https://user-images.githubusercontent.com/50306692/57203476-64d8c100-6f7e-11e9-93c5-cfd211eca5e2.png">
 
-exiting groups that users can join:
+### exiting groups that users can join:
 
 <img width="340" alt="groups" src="https://user-images.githubusercontent.com/50306692/57203195-07dc0b80-6f7c-11e9-881b-3bf16f3012b6.png">
 
-study groups that the user is a part of (also goes to this page after the user creates a new group):
+### study groups that the user is a part of:
+
+(also goes to this page after the user creates a new group)
 
 <img width="340" alt="mygroups" src="https://user-images.githubusercontent.com/50306692/57203228-47a2f300-6f7c-11e9-831a-1db75461065e.png">
 
