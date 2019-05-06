@@ -78,7 +78,8 @@ Future/ possible implentations:
 * implement a check system in create groups to make sure the user is not leaving any textfields blank 
 * display error message when the user leaves any textfields empty in create new account & create groups
 
-## Anything else you want the graders to know:
+#### Anything else you want the graders to know:
 There were some implementations that the backend members made that the we were not able (we were struggling) to implement on the frontend side :( 
+
 We also hardcoded the "chat" because both backend and ios members were confused as to how to implement a real time chat 
 
