@@ -28,13 +28,13 @@ Find your study buddies to study for your courses!
 
 ### exiting groups that users can join:
 
-![groups](https://user-images.githubusercontent.com/50306692/57205715-6611ea00-6f8e-11e9-9fa6-2a18286dcdb2.png)
+![joingroup](https://user-images.githubusercontent.com/50306692/57205749-b2f5c080-6f8e-11e9-8d1c-788ac4445eba.png)
 
 ### study groups that the user is a part of:
 
 (also goes to this page after the user creates a new group)
 
-<img width="340" alt="mygroups" src="https://user-images.githubusercontent.com/50306692/57203228-47a2f300-6f7c-11e9-831a-1db75461065e.png">
+![groups](https://user-images.githubusercontent.com/50306692/57205715-6611ea00-6f8e-11e9-9fa6-2a18286dcdb2.png)
 
 piazza style "chat"/ "thread" where members of the groups can talk to eachother (takes user to this page when they press on a group):
 
