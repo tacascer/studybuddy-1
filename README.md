@@ -36,11 +36,15 @@ Find your study buddies to study for your courses!
 
 ![groups](https://user-images.githubusercontent.com/50306692/57205715-6611ea00-6f8e-11e9-9fa6-2a18286dcdb2.png)
 
-piazza style "chat"/ "thread" where members of the groups can talk to eachother (takes user to this page when they press on a group):
+* Join Groups button on the navigation bar takes the user to Join Groups page where it displays exisiting study groups
+
+### piazza style "chat"/ "thread" where members of the groups can talk to eachother:
+
+(takes user to this page when they press on a group):
 
 <img width="340" alt="thread" src="https://user-images.githubusercontent.com/50306692/57203231-4a9de380-6f7c-11e9-8723-b0c5e1e1d6fa.png">
 
-* Join Group button on the navigaton bar adds the user to the study group
+* +Join Group button on the navigaton bar adds the user to the study group
 ## Description
 
 Are you sitting the stacks or in your dorm alone wishing you had someone to help you with that hard question on your practice test? No worries, StudyBuddy has your back! Studybuddy allows users to either create or join study groups based on the course and what they are trying to study for (prelims, finals, etc). When creating a study group, the user can input the course name, location where the studying will take place, the days of the week when they are free, the maximum number of people in the group, and what they are specially trying to study for; there is also an option to join exisiting groups based on their needs. Within the groups, there will be a chat system where the members of the group can figure out the details of their study sessions. The groups that the user either creates or joins will show up under "my groups" for convenient access. 
