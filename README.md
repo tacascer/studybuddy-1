@@ -26,6 +26,8 @@ creating a group:
 
 <img width="345" alt="creategroup" src="https://user-images.githubusercontent.com/50306692/57203476-64d8c100-6f7e-11e9-93c5-cfd211eca5e2.png">
 
+exiting groups that users can join:
+
 <img width="340" alt="groups" src="https://user-images.githubusercontent.com/50306692/57203195-07dc0b80-6f7c-11e9-881b-3bf16f3012b6.png">
 
 <img width="340" alt="mygroups" src="https://user-images.githubusercontent.com/50306692/57203228-47a2f300-6f7c-11e9-831a-1db75461065e.png">
