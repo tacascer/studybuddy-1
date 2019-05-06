@@ -1,9 +1,8 @@
 # StudyBuddy
 
-Multiple concerns with studying and organization. One app designed to meet those needs.
+Find your study buddies to study for your courses!
 
-## Screenshots
-
+# Screenshots :)
 <img width="340" alt="home" src="https://user-images.githubusercontent.com/50306692/57203165-ab78ec00-6f7b-11e9-85d0-cc11eb2c0fa2.png">
 
 <img width="340" alt="createacc" src="https://user-images.githubusercontent.com/50306692/57203181-dd8a4e00-6f7b-11e9-9e8d-2870b898bc8f.png">
@@ -19,8 +18,6 @@ Multiple concerns with studying and organization. One app designed to meet those
 <img width="340" alt="mygroups" src="https://user-images.githubusercontent.com/50306692/57203228-47a2f300-6f7c-11e9-831a-1db75461065e.png">
 
 <img width="340" alt="thread" src="https://user-images.githubusercontent.com/50306692/57203231-4a9de380-6f7c-11e9-8723-b0c5e1e1d6fa.png">
-
-
 
 
 ## Description
