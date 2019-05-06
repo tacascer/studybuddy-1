@@ -39,7 +39,6 @@ List the requirements and show how they are met
 List the requirements and show how they are met
 
 ## Additional info
-
 Future/ possible implentations:
 * connect account to facebook or google 
 * connect google calendar to display the "study times" for the study groups they are in
