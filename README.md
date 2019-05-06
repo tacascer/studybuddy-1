@@ -22,6 +22,8 @@ the user has the choice to either create a group or join an exisiting group:
 
 * My Groups button on the navigation bar takes the user to My Groups page when pressed
 
+creating a group:
+
 <img width="345" alt="creategroup" src="https://user-images.githubusercontent.com/50306692/57203476-64d8c100-6f7e-11e9-93c5-cfd211eca5e2.png">
 
 <img width="340" alt="groups" src="https://user-images.githubusercontent.com/50306692/57203195-07dc0b80-6f7c-11e9-881b-3bf16f3012b6.png">
