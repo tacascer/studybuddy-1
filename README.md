@@ -40,4 +40,9 @@ List the requirements and show how they are met
 
 ## Additional info
 
-Anything else the grader needs to know
+Future/ possible implentations:
+> connect account to facebook or google 
+> connect google calendar to display the "study times" for the study groups they are in
+> create a functioning "chat"/ "thread" for the groups
+> page to display all the current members in the group
+
