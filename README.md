@@ -28,7 +28,7 @@ Find your study buddies to study for your courses!
 
 ### exiting groups that users can join:
 
-<img width="340" alt="groups" src="https://user-images.githubusercontent.com/50306692/57203195-07dc0b80-6f7c-11e9-881b-3bf16f3012b6.png">
+![Screen Shot 2019-05-05 at 11 23 33 PM](https://user-images.githubusercontent.com/50306692/57205617-d0765a80-6f8d-11e9-8455-276cc2dac82f.png)
 
 ### study groups that the user is a part of:
 
