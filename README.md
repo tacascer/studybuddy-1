@@ -58,7 +58,7 @@ Now, you will always have friends to help ace your courses and get that 4.0 you 
 
 * App contains AutoLayout using NSLayoutConstraints
 * UITableView was used to display groups in Join Groups and My Study Groups page
-* NavigationController was used to navigate between different screens
+* UINavigationController was used to navigate between different screens
 * Integrated custom API written by backend members
 
 ### Backend
@@ -77,4 +77,8 @@ Future/ possible implentations:
 * page to display all the current members in the group
 * implement a check system in create groups to make sure the user is not leaving any textfields blank 
 * display error message when the user leaves any textfields empty in create new account & create groups
+
+## Anything else you want the graders to know:
+There were some implementations that the backend members made that the we were not able (we were struggling) to implement on the frontend side :( 
+We also hardcoded the "chat" because both backend and ios members were confused as to how to implement a real time chat 
 
