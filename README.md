@@ -1,6 +1,6 @@
 # StudyBuddy
 
-StudyBuddy is an iOS app that is designed to help you connect with other students to study together. Once you sign up, you can instantly message people across the network to get studying.
+StudyBuddy is an iOS app that is designed to help you connect with other students to study together. Once you sign up, you can instantly message people across the network to get studying. Developed for AppDev Hack Challenge, Spring 2019.
 
 ## Functionality
 
@@ -57,13 +57,15 @@ StudyBuddy is an iOS app that is designed to help you connect with other student
 
 ### iOS - Frontend requirements
 
-* App contains AutoLayout using NSLayoutConstraints
-* UITableView was used to display groups in Join Groups and My Study Groups page
-* UINavigationController was used to navigate between different screens
-* Integrated custom API written by backend members
+* Developed by Rachel Kwon and Celina Kim.
+* App contains AutoLayout using NSLayoutConstraints.
+* UITableView was used to display groups in Join Groups and My Study Groups page.
+* UINavigationController was used to navigate between different screens.
+* Integrated custom API written by backend members.
 
 ### Backend requirements
 
+* Developed by David Kim and Tim Tran.
 * Custom API - independent of outside API implementations. Here's the [link](https://paper.dropbox.com/doc/StudyBuddy-API-Spec--Acm9xqEGue3DFQSB5FX_g7WXAQ-vZNERrz3DgWPbcOnDPYze) to the spec.
 * Developed in python, using [Flask_SQLAlchemy](https://github.com/pallets/flask-sqlalchemy).
 * Models of Users, Groups, and Messages coded with many-to-many relationships to each other.
