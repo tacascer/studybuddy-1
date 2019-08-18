@@ -33,13 +33,13 @@ StudyBuddy is an iOS app that is designed to help you connect with other student
 
 <img width="345" alt="creategroup" src="https://user-images.githubusercontent.com/50306692/57203476-64d8c100-6f7e-11e9-93c5-cfd211eca5e2.png">
 
-### Exiting groups that users can join
+### List of existing groups
 
 ![joingroup](https://user-images.githubusercontent.com/50306692/57205749-b2f5c080-6f8e-11e9-8d1c-788ac4445eba.png)
 
 ### User profile
 
-(also goes to this page after the user creates a new group)
+(Also goes to this page after the user creates a new group)
 
 ![groups](https://user-images.githubusercontent.com/50306692/57205715-6611ea00-6f8e-11e9-9fa6-2a18286dcdb2.png)
 
@@ -47,7 +47,7 @@ StudyBuddy is an iOS app that is designed to help you connect with other student
 
 ### Messaging platform
 
-(takes user to this page when they press on a group):
+(Takes user to this page when they press on a group)
 
 <img width="340" alt="thread" src="https://user-images.githubusercontent.com/50306692/57203231-4a9de380-6f7c-11e9-8723-b0c5e1e1d6fa.png">
 
