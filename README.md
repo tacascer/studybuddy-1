@@ -67,7 +67,7 @@ StudyBuddy is an iOS app that is designed to help you connect with other student
 
 * Developed by David Kim and Tim Tran.
 * Custom API - independent of outside API implementations. Here's the [link](https://paper.dropbox.com/doc/StudyBuddy-API-Spec--Acm9xqEGue3DFQSB5FX_g7WXAQ-vZNERrz3DgWPbcOnDPYze) to the spec.
-* Developed in python, using [Flask_SQLAlchemy](https://github.com/pallets/flask-sqlalchemy).
+* Developed in python3, using [Flask_SQLAlchemy](https://github.com/pallets/flask-sqlalchemy).
 * Models of Users, Groups, and Messages coded with many-to-many relationships to each other.
 * Server deployed on Google Cloud. ~~http://35.196.189.184~~ Link is broken at the moment--will be fixed soon.
 
